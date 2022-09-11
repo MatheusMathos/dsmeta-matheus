@@ -3,7 +3,6 @@ package com.matheusmatos.dsmeta.services;
 import java.time.Instant;
 import java.time.LocalDate;
 import java.time.ZoneId;
-import java.util.List;
 
 import com.matheusmatos.dsmeta.entities.Sale;
 import com.matheusmatos.dsmeta.repositories.SaleRepository;
